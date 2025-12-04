@@ -51,7 +51,7 @@ Download videos from **6+ social media platforms** with just one click:
 ### **To Get Your Own Bot:**
 1. **Create** bot via [@BotFather](https://t.me/BotFather)
 2. **Get** bot token
-3. **Use** `/cloneme` in our bot
+3. **Use** `/clone` in our bot
 4. **Paste** token
 5. **Your bot** is ready! 🎉
 
@@ -100,7 +100,7 @@ Download videos from **6+ social media platforms** with just one click:
 
 1. Message @BotFather → /newbot
 2. Get token (looks like: 123456:ABCdef...)
-3. Message @AllSocialMediaDownBot → /cloneme
+3. Message @AllSocialMediaDownBot → /clone
 4. Paste token when asked
 5. Your bot is ready in 30 seconds!
 
