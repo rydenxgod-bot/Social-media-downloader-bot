@@ -1,4 +1,3 @@
-```markdown
 # 🚀 AllSocialMediaDownBot - Ultimate Media Downloader
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@AllSocialMediaDownBot-blue?logo=telegram)](https://t.me/AllSocialMediaDownBot)
